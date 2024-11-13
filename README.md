@@ -20,7 +20,7 @@ $ go get -u github.com/caddyserver/xcaddy/cmd/xcaddy
 Rebuild caddy with `dnspodcn` module
 
 ```shell
-$ xcaddy build --with clevergo.tech/caddy-dnspodcn
+$ xcaddy build --with github.com/mmhk/caddy-dnspodcn
 ```
 
 ## Configuration
