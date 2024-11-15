@@ -1,0 +1,3 @@
+[submodule "dnspodcn"]
+	path = dnspodcn
+	url = https://github.com/MMHK/dnspodcn.git
